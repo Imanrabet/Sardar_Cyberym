@@ -1,3 +1,2 @@
 # Sardar_Cyberym
-# Iranian_Cyber
-Sms Bomber
+# این ابزار فقط برای کاربران ایرانی قابل استفاده است
